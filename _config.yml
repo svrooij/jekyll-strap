@@ -1,0 +1,1 @@
+exclude: ['docker-compose.yml', 'jekyll-strap.gemspec', 'LICENSE.txt', 'README.md']

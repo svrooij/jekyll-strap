@@ -1,7 +1,1 @@
----
----
-
 @import "bootstrap/bootstrap";
-{% if site.highlighting -%}
-@import "highlighting/monokai"
-{% endif %}

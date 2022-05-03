@@ -1,5 +1,7 @@
 ---
 ---
 
-@import "./jekyll-strap.scss";
-
+@import "jekyll-strap";
+{% if site.highlighting %}
+@import "highlighting/monokai";
+{% endif %}
